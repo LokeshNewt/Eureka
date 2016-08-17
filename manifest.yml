@@ -1,3 +1,7 @@
 ---
 applications:
-- name: Eureka
+- name: eureka
+  memory: 1024M
+  buildpack: java_buildpack
+  host: eureka-microservice-0817
+  domain: cfapps.io
