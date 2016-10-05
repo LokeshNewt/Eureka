@@ -70,7 +70,7 @@
 			<url>https://repo.spring.io/snapshot</url>
 			<snapshots>
 				<enabled>true</enabled>
-			</snapshots>
+			</snapshots> 
 		</repository>
 		<repository>
 			<id>spring-milestones</id>
